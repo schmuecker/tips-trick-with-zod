@@ -1,0 +1,15 @@
+{
+  "name": "tips-trick-with-zod",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "zod": "^3.22.2",
+    "zod-validation-error": "^1.5.0"
+  }
+}
