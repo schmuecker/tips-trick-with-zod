@@ -1,4 +1,4 @@
-# tips-trick-with-zod
+# tips-tricks-with-zod
 
 To install dependencies:
 
